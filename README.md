@@ -1,4 +1,3 @@
-kihikasamuel/README.md
 Hi, I'm kelly 👋.
 Software Engineer | Elixir | Phoenix | Vue.js | Nuxt.js | Node.js | Express.js
 
@@ -27,5 +26,3 @@ Notes
 😄 Pronouns: he/him/his
 
 ⚡️ Fun fact - I love playing Chess
-
-Github stats
